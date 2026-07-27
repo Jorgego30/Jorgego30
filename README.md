@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Jorge, a developer focused on Robotics, Linux systems, and Cyber Security. Currently building autonomous systems and solving CTFs."
+#### I'm Jorge Góme, a developer focused on Robotics, Linux systems, and Cyber Security. Currently building autonomous systems and solving CTFs."
 
 ## 🔭 What I'm working on:
 
