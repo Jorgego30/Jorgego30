@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack:
 
 - **Languages:** `C` | `C++` | `Python` | `Bash scripting`
-- **OS & Tools:** `Linux (Ubuntu)` | `Git` | `GitHub`
+- **OS & Tools:** `Linux` | `Git` | `GitHub`
 - **Fields:** `Robotics` | `Cyber Security` | `QA Testing`
 
 > *“Continuous improvement is better than delayed perfection.”* 🚀
